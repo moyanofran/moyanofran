@@ -1,16 +1,60 @@
-## Hi there 👋
+# ALUMNO 
 
-<!--
-**moyanofran/moyanofran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nombre
+Samir Carpio Rodriguez
 
-Here are some ideas to get you started:
+# MATERIA
+## Programacion IV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Indice
+Volumen                    
+Variedad                      
+Complejidad                  
+Librerias de Python          
+Pip                         
+Formato csv                 
+Pandas                      
+Dataframme                
+Tabulares                   
+Seaborn
+Markdown
+
+  
+# Volumen
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Variedad
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Complejidad
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Libreria de Python
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Pip
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Formato csv
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Pandas
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Dataframe
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+# Tabulares
+En este archivo va a encontrar mas la informacion
+# 1) https://github.com/samircarpio/Teoria/blob/main/README.md
+
+
+
+  ## Seaborn
+https://github.com/samircarpio/Seaborn.md
+  ## Markdown
+https://github.com/samircarpio/markdown
+
+
+## Actividades( nuestras actividades que hicimos a base de esta info )
+https://github.com/samircarpio/Diccionario.py
